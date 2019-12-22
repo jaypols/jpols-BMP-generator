@@ -1,0 +1,5 @@
+﻿  assn3.cpp
+c:\users\jpols\documents\dev\c++\projects\es1037\assignment3\assignment3\drawable.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpols\documents\dev\c++\projects\es1037\assignment3\assignment3\assn3.cpp(78): warning C4838: conversion from 'unsigned int' to 'unsigned char' requires a narrowing conversion
+  Assignment3.vcxproj -> C:\Users\jpols\Documents\Dev\C++\Projects\ES1037\Assignment3\Debug\Assignment3.exe
+  Assignment3.vcxproj -> C:\Users\jpols\Documents\Dev\C++\Projects\ES1037\Assignment3\Debug\Assignment3.pdb (Partial PDB)
